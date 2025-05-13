@@ -1,15 +1,9 @@
-# 🧠 GenAI Chatbot UI
+# 🧠 GenAI Chatbot 
 
 This is a simple, elegant **ChatGPT-style user interface** for an AI chatbot.  
 It embeds a Gradio app hosted on Hugging Face Spaces.
 
 > ⚡ I built this project as part of the **Gen AI Workshop** conducted by **Nextwave**.
-
----
-
-## 🔗 Live Demo
-
-[👉 Try the chatbot here](https://yogeeshk-my-genai-chatbot.hf.space)
 
 ---
 
